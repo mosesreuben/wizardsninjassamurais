@@ -1,0 +1,11 @@
+C:\Users\16513\Desktop\csharp\wizard\bin\Debug\netcoreapp2.2\wizard.deps.json
+C:\Users\16513\Desktop\csharp\wizard\bin\Debug\netcoreapp2.2\wizard.runtimeconfig.json
+C:\Users\16513\Desktop\csharp\wizard\bin\Debug\netcoreapp2.2\wizard.runtimeconfig.dev.json
+C:\Users\16513\Desktop\csharp\wizard\bin\Debug\netcoreapp2.2\wizard.dll
+C:\Users\16513\Desktop\csharp\wizard\bin\Debug\netcoreapp2.2\wizard.pdb
+C:\Users\16513\Desktop\csharp\wizard\obj\Debug\netcoreapp2.2\wizard.csprojAssemblyReference.cache
+C:\Users\16513\Desktop\csharp\wizard\obj\Debug\netcoreapp2.2\wizard.csproj.CoreCompileInputs.cache
+C:\Users\16513\Desktop\csharp\wizard\obj\Debug\netcoreapp2.2\wizard.AssemblyInfoInputs.cache
+C:\Users\16513\Desktop\csharp\wizard\obj\Debug\netcoreapp2.2\wizard.AssemblyInfo.cs
+C:\Users\16513\Desktop\csharp\wizard\obj\Debug\netcoreapp2.2\wizard.dll
+C:\Users\16513\Desktop\csharp\wizard\obj\Debug\netcoreapp2.2\wizard.pdb
